@@ -1,22 +1,25 @@
 {
   "questions": [
     {
-      "questionText": "Who let the dogs out?",
-      "imageURL": "https://images.unsplash.com/photo-1672838564807-1f5e1d1b4d33?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
-      "options": ["The Baha Men", "The Cat in the Hat", "Scooby-Doo", "No one knows"],
+      "questionText": "What is the square root of -4",
+      "imageURL": "https://media.discordapp.net/attachments/957445082070548550/1161849277539155988/Screenshot_2023-10-11_211312.png?ex=6539cb75&is=65275675&hm=5bab07ada569bff63b8cf0489583d6b9a106cebe8a6542b5a92389da315baa83&=&width=196&height=96",
+      "options": ["2", "imaginary like your father", "its real trust", "i cannot comprehend"],
+      "answer": 1
+    },
+    
+    
+    {
+      "questionText": "Identify this IC chip", 
+      "imageURL": "https://www.elprocus.com/wp-content/uploads/74LS08-AND-Gate-IC.jpg",
+      "options": ["AND Gate", "555 Clock", "OR Gate", "Inverter"],
       "answer": 0
     },
     {
-      "questionText": "What is the capital of France?",
-      "imageURL": "https://images.adsttc.com/media/images/5d44/14fa/284d/d1fd/3a00/003d/large_jpg/eiffel-tower-in-paris-151-medium.jpg?1564742900",
-      "options": ["London", "Berlin", "Madrid", "Paris"],
+      "questionText": "What is the most useless amendment (this aint subjective)",
+      "imageURL": "https://i.pinimg.com/736x/a6/3b/6e/a63b6e0c0da886ac213506eed8c1b29f.jpg",
+      "options": ["2nd", "3rd", "1st", "11th", "19th", "27th", "26th"],
       "answer": 3
-    },
-    {
-      "questionText": "What is 2 + 2?",
-      "imageURL": "",
-      "options": ["3", "4", "5", "6"],
-      "answer": 1
     }
   ]
 }
+
